@@ -2,7 +2,6 @@ langgraph
 langchain-openai
 python-dotenv
 pandas
-streamlit
 langgraph
 langchain-openai
 amadeus
