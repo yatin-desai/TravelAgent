@@ -1,5 +1,6 @@
 import streamlit as st
 from main import app # Import the graph you built earlier
+from state import AgentState
 import uuid
 
 st.title("✈️ AI Travel Agent (2.5h Layover Rule)")
