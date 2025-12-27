@@ -1,6 +1,5 @@
 from langgraph.graph import StateGraph, START
 from langgraph.prebuilt import tools_condition
-from state import AgentState
 from nodes import call_model, tool_node
 
 # 1. Initialize the Graph
